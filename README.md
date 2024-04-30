@@ -15,7 +15,7 @@ Libraries: numpy, pandas, yfinance, keras, streamlit, matplotlib
 
 Installation
 Clone the repository:
-git clone https://github.com/your-username/stock-market-predictor.git
+git clone https://github.com/sudhaanshu94/StockPredictionLSTM.git
 
 Install the required dependencies:
 pip install -r requirements.txt

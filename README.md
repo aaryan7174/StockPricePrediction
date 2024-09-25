@@ -27,7 +27,6 @@ streamlit run app.py
 Enter the stock symbol in the text input field.
 Select the desired timeframe for data analysis.
 Explore live stock information and predicted prices.
-Screenshots
 
 
 Credits

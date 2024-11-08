@@ -10,7 +10,7 @@ Price Prediction: Utilizes a machine learning model to predict future stock pric
 Interactive Visualization: Displays historical stock data along with moving averages and visualizes the predicted prices against the actual prices.
 
 Requirements
-Python 3.x
+Python 3.10
 Libraries: numpy, pandas, yfinance, keras, streamlit, matplotlib
 
 Installation

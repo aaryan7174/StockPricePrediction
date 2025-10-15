@@ -55,6 +55,14 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
+## 💡 Example Output
+
+Original vs Predicted Prices:
+
+Original Price (₹): 1630.50
+Predicted Price (Next Day ₹): 1632.45
+Price Trend: Upward 📈
+
 ## 🌟 Highlights
 
 Multi-layer LSTM with dropout regularization for robust prediction.

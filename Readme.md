@@ -1,9 +1,9 @@
-# 🚀 StockVision AI: Next-Gen Stock Price Predictor
-
 [![Python](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org/)  
 [![Keras](https://img.shields.io/badge/Keras-v2.12-orange)](https://keras.io/)  
 [![Streamlit](https://img.shields.io/badge/Streamlit-v1.28-green)](https://streamlit.io/)  
 [![yFinance](https://img.shields.io/badge/yFinance-latest-purple)](https://pypi.org/project/yfinance/)
+
+# 🚀 StockVision AI: Next-Gen Stock Price Predictor
 
 ---
 
